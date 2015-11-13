@@ -1,0 +1,9 @@
+bin
+obj
+packages/
+pck/
+doc/
+*.suo
+*.user
+TestResult.xml
+build.log
